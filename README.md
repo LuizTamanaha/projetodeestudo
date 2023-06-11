@@ -4,7 +4,7 @@
 
 ## Layout web
 
-https://github.com/LuizTamanaha/projetodeestudo/issues/1#issue-1751397985
+![Projeto](https://github.com/LuizTamanaha/projetodeestudo/assets/30093909/5894e2bc-25c6-472b-b843-7a2fd6dad3c9)
 
 # Tecnologias utilizadas
 
